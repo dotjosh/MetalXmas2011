@@ -37,28 +37,57 @@
     <Reference Include="EntityFramework">
       <HintPath>..\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll</HintPath>
     </Reference>
-    <Reference Include="System.Data.Entity" />
-    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
-    <Reference Include="System.Web.WebPages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
-    <Reference Include="System.Web.Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Data.Entity">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
-    <Reference Include="System.Web.DynamicData" />
-    <Reference Include="System.Web.Entity" />
-    <Reference Include="System.Web.ApplicationServices" />
-    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web.DynamicData">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Entity">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Core" />
-    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
-    <Reference Include="System.Web.Extensions" />
-    <Reference Include="System.Web.Abstractions" />
-    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Web.Extensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Abstractions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Routing">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="System.Configuration" />
-    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
@@ -72,8 +101,27 @@
     <Content Include="Content\audiojs\audio.min.js" />
     <Content Include="Content\audiojs\audiojs.swf" />
     <Content Include="Content\audiojs\player-graphics.gif" />
-    <Content Include="Content\images\background.jpg" />
-    <Content Include="Content\images\logo.png" />
+    <Content Include="Content\images\background.png" />
+    <Content Include="Content\images\logo_joshanddave.png" />
+    <Content Include="Content\images\logo_metalxmas.png" />
+    <Content Include="Content\images\photo.jpg" />
+    <Content Include="Content\songs\2008\Drunken Halls of the Holidays.mp3" />
+    <Content Include="Content\songs\2008\Guitalujah.mp3" />
+    <Content Include="Content\songs\2008\Iron Menorah.mp3" />
+    <Content Include="Content\songs\2008\Mom and Santa are out of control!.mp3" />
+    <Content Include="Content\songs\2008\Pounding Bells.mp3" />
+    <Content Include="Content\songs\2009\Dreidel Opening.mp3" />
+    <Content Include="Content\songs\2009\Iron Shalom.mp3" />
+    <Content Include="Content\songs\2009\Little Drummer Boy.mp3" />
+    <Content Include="Content\songs\2009\Santa Lane.mp3" />
+    <Content Include="Content\songs\2009\White Christmas.mp3" />
+    <Content Include="Content\songs\2010\Joy to the Metal World.mp3" />
+    <Content Include="Content\songs\2010\Let it Snow Now.mp3" />
+    <Content Include="Content\songs\2010\Rudolph the Red Nosed Rockstar.mp3" />
+    <Content Include="Content\songs\2011\Fa Lease Nah Veedaud.mp3" />
+    <Content Include="Content\songs\2011\Hark the Harold.mp3" />
+    <Content Include="Content\songs\2011\Have a Loud Nagila.mp3" />
+    <Content Include="Content\songs\2011\Rockjolly Christmas.mp3" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -135,7 +183,6 @@
     <Content Include="Views\Shared\Error.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\songs\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

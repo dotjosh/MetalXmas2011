@@ -50,37 +50,48 @@ table {
 
 
 body {
-	 background: #04121B url('images/background.jpg') repeat-x;
+	 background: #3d3a31 url('images/background.png') repeat-x;
 	font-family: verdana;
 }
 
-h1 
-{
-	background:url('images/logo.png') no-repeat;
-	width: 374px;
-	height: 164px;
-	margin: 0 auto;
-	padding: 0 0 0 30px;
-	text-align: center;
-	z-index: 0;
-	text-indent: -1000em;
+
+#logo_container {
+	position: relative;
+}
+	#logo_photo {
+		position: absolute;
+		top: 45px;
+		left: 7px;
+	}
+	#logo_joshanddave {
+		position: absolute;
+		top: 31px;
+		left: 67px;
+	}
+	#logo_metalxmas 
+	{
+		top: 80px;
+		left: 70px;
+		position: absolute;
+	}
+	
+.content {
+	padding-left: 440px;
+	padding-top:60px;
 }
 
-div.content {
-	margin: 35px auto;
-	width: 690px;
-}
+
 
 div#music_player 
 {
 	clear: both;
+	width: 530px;
 	margin: 10px 10px 0 10px;
-	width: 660px;
-	padding: 0 10px 10px 0;
+	padding: 0 0 10px 0;
 	visibility: hidden;
 }
 	div#music_player h2 {
-		color: #FFF;
+		color: red;
 		text-align: center;
 	}
 	div#music_player .audiojs {
@@ -95,9 +106,10 @@ div.songs
 	background: #348733;
 	border: solid 1px #555;
 	margin: 10px 10px 10px 10px;
-	width: 300px;
+	width: 235px;
 	float: left;
-	padding: 6px;
+	padding: 8px 8px;
+	white-space: nowrap;
 }
 
 h2,h4 { font-family: tahoma;}
@@ -107,7 +119,7 @@ h4 {
 }
 
 h2 {
-	font-size: 20pt;
+	font-size: 24pt;
 }
 
 div.songs h4 
@@ -121,11 +133,11 @@ div.songs h4
 		background: rgba(199, 4, 4, .2);
 		cursor: pointer;
 		color: #FFF;			
-		margin: 8px 10px;
+		margin: 8px 0px;
 		padding: 9px;
 		display: block;
 		font-weight: bold;
-		font-size: 12px;
+		font-size: 11px;
 	}
 	div.songs li a:hover {
 		background:  rgba(199, 4, 4, .4);

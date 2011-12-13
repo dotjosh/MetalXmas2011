@@ -1,5 +1,5 @@
 ﻿@{
-	ViewBag.Title = "MetalXmas 2011";
+	ViewBag.Title = "MetalXmas 2011 - Josh and Dave's rock masterpiece";
 }
 <!DOCTYPE html>
 <html>
@@ -13,7 +13,11 @@
 </head>
 
 <body>
-<h1>MetalXmas.com - Dave and Josh's Musical Masterpiece</h1>
+<div id="logo_container">
+	<img src="@Url.Content("~/Content/Images/photo.jpg")" id="logo_photo"/>
+	<img src="@Url.Content("~/Content/Images/logo_metalxmas.png")" id="logo_metalxmas"/>
+	<img src="@Url.Content("~/Content/Images/logo_joshanddave.png")" id="logo_joshanddave"/>
+</div>
 <div class="content">
 	<div id="music_player">
 		<h2>The current song title</h2>
@@ -22,9 +26,9 @@
 	<div id="songs_2011" class="songs">
 		<h4>2011</h4>
 		<ol>
-			<li><a>Song 1</a></li>
-			<li><a>Song 1</a></li>
-			<li><a>Song 1</a></li>
+			<li><a>Fa Lease Nah Veedaud</a></li>
+			<li><a>Have a Loud Nagila</a></li>
+			<li><a>Rockjolly Christmas</a></li>
 		</ol>
 	</div>
 	<div id="songs_2010" class="songs">
@@ -116,6 +120,19 @@
 				}
 
 			}
+
+			var randomNum = Math.ceil(Math.random() * 3);
+			switch (randomNum) {
+				case 1:
+					playSong("2008", "Guitalujah");
+					break;
+				case 2:
+					playSong("2009", "Dreidel OpeningDreidel Opening.mp3");
+					break;
+				case 3:
+					playSong("2011", "Hark the Harold");
+					break;
+			}			
 		});
 	</script>
 
