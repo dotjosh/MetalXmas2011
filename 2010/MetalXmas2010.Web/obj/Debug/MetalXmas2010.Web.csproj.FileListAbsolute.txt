@@ -1,0 +1,13 @@
+c:\users\jschwartzberg\documents\visual studio 2010\Projects\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.dll
+c:\users\jschwartzberg\documents\visual studio 2010\Projects\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.pdb
+c:\users\jschwartzberg\documents\visual studio 2010\Projects\MetalXmas2010\MetalXmas2010.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jschwartzberg\documents\visual studio 2010\Projects\MetalXmas2010\MetalXmas2010.Web\obj\Debug\MetalXmas2010.Web.dll
+c:\users\jschwartzberg\documents\visual studio 2010\Projects\MetalXmas2010\MetalXmas2010.Web\obj\Debug\MetalXmas2010.Web.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\EntityFramework.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\WebActivator.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\WebActivator.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Debug\MetalXmas2010.Web.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Debug\MetalXmas2010.Web.pdb

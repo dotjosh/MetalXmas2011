@@ -1,0 +1,1 @@
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\MetalXmas2010.Web.csproj,634275809200929297,MetalXmasService.cs,Model\Comment.cs,Model\MetalXmasDbContext.cs,Properties\AssemblyInfo.cs,

@@ -1,0 +1,412 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:Silverlight.js" caret="127" fromTop="0" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:FeedbackDialog.xaml.cs" caret="779" fromTop="29" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/d:Core/f:Execute.cs" caret="111" fromTop="5" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:App.xaml.cs" caret="786" fromTop="30" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/d:Model/f:Comment.cs" caret="276" fromTop="12" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/d:Generated_Code/f:MetalXmas2010.Web.g.cs" caret="14066" fromTop="29" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:FeedbackDialog.xaml" caret="1058" fromTop="0" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:Web.Debug.config" caret="724" fromTop="16" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:Web.Release.config" caret="1106" fromTop="25" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:MetalXmasService.cs" caret="679" fromTop="32" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/d:Model/f:MetalXmasDbContext.cs" caret="39" fromTop="2" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:Web.config" caret="1518" fromTop="32" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:FeedbackDialogViewModel.cs" caret="694" fromTop="0" />
+      <File id="EBB9BA00-2A36-447A-82DB-35979774915B/f:Default.aspx" caret="2709" fromTop="19" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPageViewModel.cs" caret="3174" fromTop="24" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:CommentBlock.xaml" caret="391" fromTop="0" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/d:Core/f:Helpers.cs" caret="102" fromTop="5" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/d:Core/f:ServiceFactory.cs" caret="487" fromTop="19" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml" caret="342" fromTop="0" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4044" fromTop="2" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="1443" fromTop="22" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="1954" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="1644" fromTop="18" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="1805" fromTop="26" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="1797" fromTop="27" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="358" fromTop="14" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="4139" fromTop="35" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="2992" fromTop="41" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="1498" fromTop="25" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="2570" fromTop="11" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="15115" fromTop="15" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="14983" fromTop="6" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="2393" fromTop="13" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="1742" fromTop="4" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="1197" fromTop="10" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="2056" fromTop="10" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="15246" fromTop="10" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="2339" fromTop="13" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="3297" fromTop="34" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="3213" fromTop="8" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="14453" fromTop="8" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4757" fromTop="18" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4097" fromTop="13" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="3681" fromTop="8" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="432" fromTop="5" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4449" fromTop="16" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4316" fromTop="11" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml" caret="4666" fromTop="14" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="3297" fromTop="35" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="3399" fromTop="40" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:MainPage.xaml.cs" caret="14066" fromTop="23" />
+      <File id="DAAC96A6-3813-496F-AA5F-3D71EE957A78/f:SongPlayer.xaml.cs" caret="2210" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.4.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="UniformToFill" priority="0" />
+      <Item value="None" priority="0" />
+      <Item value="public" priority="16" />
+      <Item value="static" priority="3" />
+      <Item value="DependencyProperty`0" priority="1" />
+      <Item value="typeof" priority="2" />
+      <Item value="SongPlayer`0" priority="4" />
+      <Item value="new" priority="10" />
+      <Item value="PropertyMetadata" priority="1" />
+      <Item value="return" priority="5" />
+      <Item value="SongUrlProperty" priority="1" />
+      <Item value="SetValue`0" priority="0" />
+      <Item value="void" priority="5" />
+      <Item value="RoutedEvent`0" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="TriggerAction`0" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="if" priority="12" />
+      <Item value="Started" priority="1" />
+      <Item value="CreateDelegate" priority="1" />
+      <Item value="o" priority="0" />
+      <Item value="SongMediaElement" priority="12" />
+      <Item value="Uri" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="Stopped" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="true" priority="3" />
+      <Item value="else" priority="5" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="Buffering" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="Paused" priority="1" />
+      <Item value="Collapsed" priority="8" />
+      <Item value="Visibility" priority="1" />
+      <Item value="MediaElement`0" priority="1" />
+      <Item value="App`0" priority="0" />
+      <Item value="documentUri" priority="4" />
+      <Item value="Loaded" priority="0" />
+      <Item value="Grid`0" priority="2" />
+      <Item value="this" priority="3" />
+      <Item value="foreach" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="in" priority="0" />
+      <Item value="songPlayers" priority="0" />
+      <Item value="player" priority="1" />
+      <Item value="CreateLambda" priority="5" />
+      <Item value="_songPlayers" priority="0" />
+      <Item value="otherPlayer" priority="0" />
+      <Item value="OnStart`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="TimeSpan`0" priority="1" />
+      <Item value="_updateProgressTimer" priority="4" />
+      <Item value="Colors`0" priority="1" />
+      <Item value="SolidColorBrush`0" priority="0" />
+      <Item value="PauseButton" priority="0" />
+      <Item value="durationSeconds" priority="0" />
+      <Item value="OutOfBrowserSettings`0" priority="0" />
+      <Item value="Decimal`0" priority="1" />
+      <Item value="a" priority="1" />
+      <Item value="Block`0" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="decimal" priority="1" />
+      <Item value="Test`0" priority="0" />
+      <Item value="T`0" priority="2" />
+      <Item value="host" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="LayoutRoot" priority="1" />
+      <Item value="MainPage`0" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="OperatingSystem`0" priority="0" />
+      <Item value="bool" priority="5" />
+      <Item value="MacOSX" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="Navy" priority="1" />
+      <Item value="_comment" priority="1" />
+      <Item value="context" priority="6" />
+      <Item value="response" priority="1" />
+      <Item value="Comment`0" priority="6" />
+      <Item value="default" priority="0" />
+      <Item value="config" priority="0" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="OnPropertyChanged`0" priority="1" />
+      <Item value="ResultIsVisible" priority="1" />
+      <Item value="ResultIsError" priority="0" />
+      <Item value="Visible" priority="7" />
+      <Item value="OriginalButtonsVisible" priority="0" />
+      <Item value="InputVisibility" priority="0" />
+      <Item value="OriginalButtonsVisibility" priority="0" />
+      <Item value="OnUIThread`0" priority="0" />
+      <Item value="RootVisual" priority="0" />
+      <Item value="SystemColors`0" priority="0" />
+      <Item value="ResultForeground" priority="0" />
+      <Item value="All" priority="0" />
+      <Item value="WebInvoke" priority="0" />
+      <Item value="CurrentDataSource" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="DbSet" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="Comment" priority="0" />
+      <Item value="operation" priority="4" />
+      <Item value="service" priority="0" />
+      <Item value="ServiceFactory`0" priority="1" />
+      <Item value="ValidationContext" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="hasErrors" priority="0" />
+      <Item value="localPath" priority="1" />
+      <Item value="seeTheFeedbackDialog" priority="0" />
+      <Item value="AllComments" priority="0" />
+      <Item value="_allCommentContext" priority="2" />
+      <Item value="IntroMusicPlayer" priority="0" />
+      <Item value="Play`0" priority="0" />
+      <Item value="DriedelOpeningPlayer" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.DependencyProperty">
+      <Item value="Register`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.SongPlayer">
+      <Item value="TitleTextBlock" priority="0" />
+      <Item value="Started" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Stopped" priority="0" />
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="0" />
+      <Item value="Foreground" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DependencyPropertyChangedEventArgs">
+      <Item value="NewValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.MediaElement">
+      <Item value="Play`0" priority="0" />
+      <Item value="Source" priority="1" />
+      <Item value="Stop`0" priority="1" />
+      <Item value="CurrentState" priority="3" />
+      <Item value="CurrentStateChanged" priority="0" />
+      <Item value="Position" priority="1" />
+      <Item value="NaturalDuration" priority="1" />
+      <Item value="Pause`0" priority="1" />
+      <Item value="AutoPlay" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.MediaElementState">
+      <Item value="Opening" priority="0" />
+      <Item value="Playing" priority="0" />
+      <Item value="Stopped" priority="0" />
+      <Item value="Closed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Visibility" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Visible" priority="4" />
+      <Item value="Collapsed" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MetalXmas2010.App">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Host" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Interop.SilverlightHost">
+      <Item value="Source" priority="0" />
+      <Item value="Settings" priority="0" />
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="Host" priority="0" />
+      <Item value="Port" priority="0" />
+      <Item value="Fragment" priority="2" />
+      <Item value="LocalPath" priority="1" />
+      <Item value="OriginalString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.MainPage">
+      <Item value="LayoutRoot" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="Descendents`0" priority="0" />
+      <Item value="Children" priority="1" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="OfType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="Except`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="Visibility" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.DispatcherTimer">
+      <Item value="Interval" priority="0" />
+      <Item value="Tick" priority="0" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Duration">
+      <Item value="TimeSpan" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Black" priority="0" />
+      <Item value="White" priority="0" />
+      <Item value="Red" priority="0" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Interop.Settings">
+      <Item value="EnableGPUAcceleration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrWhiteSpace`0" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.App">
+      <Item value="RootVisual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.Storyboard">
+      <Item value="Stop`0" priority="0" />
+      <Item value="Begin`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="OSVersion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.OperatingSystem">
+      <Item value="Platform" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Interop.Content">
+      <Item value="FullScreenChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.MyServices.MetalXmasDbContext">
+      <Item value="BeginSaveChanges`0" priority="0" />
+      <Item value="EndSaveChanges`0" priority="0" />
+      <Item value="UpdateObject`0" priority="0" />
+      <Item value="AddToComments`0" priority="0" />
+      <Item value="AddObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MetalXmas2010.MyServices.Comment">
+      <Item value="CreateComment`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="cslap" priority="0" />
+      <Item value="Collapsed" priority="2" />
+      <Item value="Visible" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.FeedbackDialog">
+      <Item value="DialogResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MetalXmas2010.Core.Execute">
+      <Item value="CurrentDispatcher" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.UIElement">
+      <Item value="Dispatcher" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Services.DataServiceConfiguration">
+      <Item value="SetServiceOperationAccessRule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.Web.MetalXmasService">
+      <Item value="CurrentDataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.Web.Model.MetalXmasDbContext">
+      <Item value="Comments" priority="2" />
+      <Item value="SaveChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.Web.MetalXmasContext">
+      <Item value="Comments" priority="2" />
+      <Item value="SubmitChanges`0" priority="0" />
+      <Item value="Load`1" priority="1" />
+      <Item value="GetCommentsQuery`0" priority="2" />
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.EntitySet`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.SubmitOperation">
+      <Item value="HasError" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.LoadOperation`1">
+      <Item value="Entities" priority="1" />
+      <Item value="HasError" priority="0" />
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MetalXmas2010.Core.ServiceFactory">
+      <Item value="Create`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.Web.Model.Comment">
+      <Item value="HasValidationErrors" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.Validator">
+      <Item value="ValidateObject`0" priority="0" />
+      <Item value="TryValidateObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MetalXmas2010.MainPageViewModel">
+      <Item value="RefreshAllComments`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Canvas">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Canvas">
+      <Item value="GetTop`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://dotjosh.com/metalxmas.com/wwwroot" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="dotjosh" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJxrC3aeTSE6S7NmftP8r5wAAAAACAAAAAAAQZgAAAAEAACAAAABKZomcjlwTrzJbu/Yak85EVvg5CFHyT2X2HKCo9FRDsgAAAAAOgAAAAAIAACAAAAAnO6XBVEVEFvlywcd7UpytNJTh4sfuj4Z3f/ZUBoC1tSAAAABOCfMcdfd0+DKJj8DkkzGuuBJQoAJ7i0Nucll+6WuJ80AAAAANQ6a+eW5H51wWv61TGpkwFowIdOH9MqAaS+evXhgmRWm1GLwKIsF3WZzMnUnG7SPKqs6B4BsZjiqw/SeqUr6N" SelectedForPublish="True">
+    <file relUrl="Silverlight.js" publishTime="12/08/2010 22:49:51" />
+    <file relUrl="Metal Xmas 2009/Iron Shalom.mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2010/Let it Snow Now.mp3" publishTime="12/10/2010 12:16:50" />
+    <file relUrl="ClientBin/MetalXmas2010.xap" publishTime="12/11/2010 17:01:57" />
+    <file relUrl="bin/WebActivator.dll" publishTime="12/10/2010 00:35:44" />
+    <file relUrl="Metal Xmas 2008/Pounding Bells (Final).mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2010/Rudolph the Red Nosed Rockstar.mp3" publishTime="12/10/2010 12:16:50" />
+    <file relUrl="bin/MetalXmas2010.Web.dll" publishTime="12/11/2010 17:01:17" />
+    <file relUrl="bin/System.ServiceModel.DomainServices.Hosting.xml" publishTime="05/06/2010 14:22:06" />
+    <file relUrl="packages.config" publishTime="12/10/2010 00:35:47" />
+    <file relUrl="bin/System.ServiceModel.DomainServices.Server.xml" publishTime="05/06/2010 14:22:02" />
+    <file relUrl="Default.aspx" publishTime="12/10/2010 14:27:28" />
+    <file relUrl="Metal Xmas 2009/Little Drummer Boy.mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="bin/System.ServiceModel.DomainServices.Hosting.dll" publishTime="05/06/2010 14:24:00" />
+    <file relUrl="Metal Xmas 2009/White Christmas.mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2009/Santa Lane.mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2008/Guitalujah (Final).mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2008/Drunken Halls of the Holidays (Final).mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2009/Dreidel Opening.mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="Metal Xmas 2008/Iron Menorah  (Final).mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="bin/MetalXmas2010.Web.pdb" publishTime="12/11/2010 17:01:17" />
+    <file relUrl="Metal Xmas 2008/Mom and Santa are out of control! (Final).mp3" publishTime="12/09/2010 01:29:56" />
+    <file relUrl="bin/System.ServiceModel.DomainServices.Server.dll" publishTime="05/06/2010 14:24:00" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="12/10/2010 00:05:35" />
+    <file relUrl="bin/WebActivator.pdb" publishTime="12/10/2010 00:35:44" />
+    <file relUrl="Metal Xmas 2010/Joy to the Metal World.mp3" publishTime="12/10/2010 12:16:50" />
+    <file relUrl="Web.config" publishTime="12/10/2010 14:28:15" />
+  </publishProfile>
+</publishData>

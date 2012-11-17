@@ -1,0 +1,12 @@
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\MetalXmas2010.Web.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\EntityFramework.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\WebActivator.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\WebActivator.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Release\MetalXmas2010.Web.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\obj\Release\MetalXmas2010.Web.pdb
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\jschwartzberg\Documents\My Dropbox\Code\MetalXmas2010\MetalXmas2010.Web\bin\System.ServiceModel.DomainServices.Server.xml

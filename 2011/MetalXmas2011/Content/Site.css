@@ -1,0 +1,149 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+body {
+	 background: #3d3a31 url('images/background.png') repeat-x;
+	font-family: verdana;
+}
+
+
+#logo_container {
+	position: relative;
+}
+	#logo_photo {
+		position: absolute;
+		top: 45px;
+		left: 7px;
+	}
+	#logo_joshanddave {
+		position: absolute;
+		top: 31px;
+		left: 67px;
+	}
+	#logo_metalxmas 
+	{
+		top: 80px;
+		left: 70px;
+		position: absolute;
+	}
+	
+.content {
+	padding-left: 440px;
+	padding-top:60px;
+}
+
+
+
+div#music_player 
+{
+	clear: both;
+	width: 530px;
+	margin: 10px 10px 0 10px;
+	padding: 0 0 10px 0;
+	visibility: hidden;
+}
+	div#music_player h2 {
+		color: red;
+		text-align: center;
+	}
+	div#music_player .audiojs {
+		width: 500px;
+		margin: 10px auto;
+	}
+#songs_2011 h4 {
+	color: #000;
+}
+div.songs 
+{
+	background: #348733;
+	border: solid 1px #555;
+	margin: 10px 10px 10px 10px;
+	width: 235px;
+	float: left;
+	padding: 8px 8px;
+	white-space: nowrap;
+}
+
+h2,h4 { font-family: tahoma;}
+
+h4 {
+	font-size: 16pt;
+}
+
+h2 {
+	font-size: 24pt;
+}
+
+div.songs h4 
+{
+	color: #333;
+	text-align: center;
+	font-weight: bold;
+}
+	div.songs li a 
+	{
+		background: rgba(199, 4, 4, .2);
+		cursor: pointer;
+		color: #FFF;			
+		margin: 8px 0px;
+		padding: 9px;
+		display: block;
+		font-weight: bold;
+		font-size: 11px;
+	}
+	div.songs li a:hover {
+		background:  rgba(199, 4, 4, .4);
+	}
+	div.songs li a.playing
+	{
+		background: rgb(199,4,4)
+	}
+		
