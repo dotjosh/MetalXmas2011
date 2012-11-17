@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalXmas2010", "MetalXmas2010\MetalXmas2010.csproj", "{DAAC96A6-3813-496F-AA5F-3D71EE957A78}"
 	ProjectSection(ProjectDependencies) = postProject
 		{EBB9BA00-2A36-447A-82DB-35979774915B} = {EBB9BA00-2A36-447A-82DB-35979774915B}
